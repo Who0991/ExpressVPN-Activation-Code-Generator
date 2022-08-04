@@ -10,7 +10,7 @@ colorama.init()
 # Using this tool I am not responsible for any damages or bans
 
 
-print(f"{Fore.CYAN}  
+ 
       
 ______                           __      _______  _   _ 
  |  ____|                          \ \    / /  __ \| \ | |
